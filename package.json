@@ -1,0 +1,20 @@
+{
+  "bin": {
+    "@muraly12/muralyproject": "./index.js"
+  },
+  "name": "@muraly12/muralyproject",
+  "version": "2.0.0",
+  "description": "Build project with CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/muraly12/project-generator/"
+  },
+  "author": "PratapRockerss",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}
