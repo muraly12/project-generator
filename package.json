@@ -1,8 +1,8 @@
 {
   "bin": {
-    "@muraly12/muralyproject": "./index.js"
+    "@muraly12/muralyproject2": "./index.js"
   },
-  "name": "@muraly12/muralyproject",
+  "name": "@muraly12/muralyproject2",
   "version": "2.0.0",
   "description": "Build project with CLI",
   "main": "index.js",
